@@ -8,6 +8,7 @@ void main() {
       continue; //Continue so the below code will not run but it will move to next i++
     } else if (i % 5 == 0) {
       print('buzz');
+      continue;
     } else
       print(i);
   }
