@@ -1,3 +1,4 @@
+//Enum is work like constant stay fixed and its compile time
 enum Medal { gold, silver, bronze, noMedal }
 
 void main() {
