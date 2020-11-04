@@ -12,7 +12,7 @@ JSON API Testing Extension:
 1) REST Client by Huachao Mao
 
 Flutter Productivity Extension
-1) sPubspec Assist (search the dependencies from vscode and auto apply the latest)
+1) Pubspec Assist (search the dependencies from vscode and auto apply the latest)
 2) Version Lens(Extension allows you to see whether your dependencies is on the latest version)
 3) Flutter Tree(allow you to build basic widget tree with a simple syntax)
 4) Dart data class generator (allow you to create dart data classes easily, 
