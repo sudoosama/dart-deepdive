@@ -5,6 +5,7 @@ void main() {
   }
 
   //for-in
+  //we use for-in while iterating values from list/sets
   List planetList = ['Mercury', 'Venus', 'Earth', 'Mars'];
   for (var planet in planetList) {
     //planet iterating all list from planetList until its find the end
